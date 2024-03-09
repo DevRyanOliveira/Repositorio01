@@ -1,0 +1,33 @@
+
+        .card {
+            width: 500px;
+            border: solid black;
+            background-color: bisque;
+            padding-left: 40px;
+            border-radius: 15px;
+
+        }
+
+        .caixa {
+            width: 100px;
+            height: 100px;
+        }
+
+        .img {
+            width: 100%;
+            height: 100%;
+        }
+
+        .h1 {
+            font-family: monospace;
+            font-size: 30px;
+        }
+
+        .p {
+            font-family: monospace;
+            font-size: 15px;
+        }
+
+        .span {
+            color: red;
+        }
